@@ -13,5 +13,5 @@ The deep model used for training is the Fine-Grained UNET by [Stoian et. al, 201
 ![alt text](https://github.com/n-verde/Indicator_15.4.2/blob/main/images/RESULTS_AOIs_best.png?raw=true)
 *Classification result (c,f,i), compared to the ESA CCI LC product (b,e,h) and the Google Earth image of each case (a,d,g)*
 
-## Further reading - Citation
-Verde N. *Calculating and mapping Sustainable Development Goal Indicators, with open earth observation data and cloud computing services*. Dissertation. Aristotle University of Thessaloniki; 2023
+## Further reading - Citations
+Verde N. *Calculation and mapping of sustainable development goal indicators, using open-source earth observation data and cloud computing services*. Dissertation. Aristotle University of Thessaloniki; 2023. http://dx.doi.org/10.12681/eadd/56272 
