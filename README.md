@@ -15,3 +15,7 @@ The deep model used for training is the Fine-Grained UNET by [Stoian et. al, 201
 
 ## Further reading - Citations
 Verde N. *Calculation and mapping of sustainable development goal indicators, using open-source earth observation data and cloud computing services*. Dissertation. Aristotle University of Thessaloniki; 2023. http://dx.doi.org/10.12681/eadd/56272 
+
+Verde N, Patias P, Mallinis G. *Mountain Green Cover Index Calculation at a National Scale Using Weak and Sparse Data*. InIGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium 2024 Jul 7 (pp. 397-402). IEEE. https://doi.org/10.1109/IGARSS53475.2024.10642510 
+
+
